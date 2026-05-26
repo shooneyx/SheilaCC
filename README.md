@@ -17,7 +17,7 @@
     code: [JavaScript, HTML, CSS],
     Frontes: {
                 frameworks: [React}
-                tools: [Tailwind. Bootstrap]
+                tools: [Tailwind, Bootstrap]
                 uiLibraries: [Ant Design]
     },
     bakend: {
