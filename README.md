@@ -24,8 +24,8 @@
                 node: [Node, Express]
     },
     databases: {
-                relational: ["MySQL, "MySQL Workbench,"],
-                nosql: ["MongoDB""],
+                relational: [MySQL, MySQL Workbench],
+                nosql: [MongoDB],
     },
     devOps: [Docker],
     currentFocus:: "I'm constantly learning and aiming to grow into a full-stack developer"
